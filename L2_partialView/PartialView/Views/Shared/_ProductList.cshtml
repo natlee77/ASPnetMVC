@@ -1,0 +1,13 @@
+﻿
+
+@model IEnumerable<PartialView.Models.Product>
+
+
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var item in Model)
+    {
+
+        @await Html.PartialAsync("_ProductCard", item)
+    }
+</div>

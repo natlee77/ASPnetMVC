@@ -1,0 +1,9 @@
+C:\Users\46735\source\repos\Library_Standart\bin\Debug\netstandard2.0\Repository_LibrStandart.deps.json
+C:\Users\46735\source\repos\Library_Standart\bin\Debug\netstandard2.0\Repository_LibrStandart.dll
+C:\Users\46735\source\repos\Library_Standart\bin\Debug\netstandard2.0\Repository_LibrStandart.pdb
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.csprojAssemblyReference.cache
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.AssemblyInfoInputs.cache
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.AssemblyInfo.cs
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.csproj.CoreCompileInputs.cache
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.dll
+C:\Users\46735\source\repos\Library_Standart\obj\Debug\netstandard2.0\Repository_LibrStandart.pdb
