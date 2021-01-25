@@ -1,0 +1,9 @@
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\Nataliya\.NET\ASP.Net_MVC\Code\L2_AppAutoMapp\Repository\obj\Debug\netstandard2.0\Repository.pdb

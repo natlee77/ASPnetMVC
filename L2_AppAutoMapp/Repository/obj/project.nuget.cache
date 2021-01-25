@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdCYb9MSHsa6yTfVKZrfJ6dg/t1uPmeEUxLyKhxMPSKIU77V9WpvWX5/HwV4ezxDATsSRscfx5sbKGMqE6uFmw==",
+  "success": true,
+  "projectFilePath": "D:\\Nataliya\\.NET\\ASP.Net_MVC\\Code\\L2_AppAutoMapp\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46735\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\46735\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\46735\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\46735\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\46735\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\46735\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
