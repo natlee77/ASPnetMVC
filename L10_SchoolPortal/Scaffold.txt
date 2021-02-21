@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Nataliya\.NET\ASP.Net_MVC\Code\L10_SchoolPortal\aspnet_SchoolPortal-main.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context SchoolPortalDbContext -ContextDir Data -OutputDir Entities

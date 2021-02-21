@@ -1,0 +1,11 @@
+﻿@model RepPartialView.Models.Product
+
+<div class="card" style="width: 18rem;">
+    <img src="@Html.DisplayFor(model => model.ImageUrl)" class="card-img-top" alt="@Html.DisplayFor(model => model.Name)">
+    <div class="card-body">
+        <h5 class="card-title">@Html.DisplayFor(model => model.Name)</h5>
+        <p class="card-text">@Html.DisplayFor(model => model.Description)</p>
+        <a href="#" class="btn btn-primary">Add To Cart</a>
+    </div>
+</div>
+

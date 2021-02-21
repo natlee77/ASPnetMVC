@@ -1,0 +1,18 @@
+﻿@model IdentityRole
+<h1>Create role</h1>
+<div class="mt-5">
+    <form  method="post" >
+        <div class="form-group" >
+            
+                <label asp-for="Name">Name</label>
+                <input type="text" class="form-control" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+
+
+            
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-success">Submit</button>
+        </div>
+    </form>
+</div>

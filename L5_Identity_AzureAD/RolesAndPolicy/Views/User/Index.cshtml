@@ -1,0 +1,34 @@
+﻿@model IdentityRole
+
+
+<h1>All users</h1>
+@foreach (var user in ViewBag.Users)
+{
+    <div class="mb-4">
+        @user.GetDisplayName() , @user.Role
+
+    </div>
+}
+
+@Html.DropDownListFor(model => model.Id, new SelectList(ViewBag.Roles, "Id", "Name"), "Välja Roll")
+
+
+
+@*@foreach (var role in ViewBag.Roles)
+    {
+        <div>
+            @role.Name
+        </div>
+    }*@
+
+
+
+
+
+@*@model IEnumerable<UserViewModel>*@
+
+@*@foreach (var user in Model)*@
+@*{    <div class="mb-4">
+            @user.FirstName@user.LastName -( @foreach (var role in user.Roles){<span class="¨mr-1">@role</span>})
+        </div>
+    }*@

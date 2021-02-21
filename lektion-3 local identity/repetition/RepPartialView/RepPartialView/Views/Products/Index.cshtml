@@ -1,0 +1,23 @@
+﻿@model IEnumerable<RepPartialView.Models.ProductsViewModel>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+@foreach (var item in Model)
+{
+
+
+    @foreach (var product in item.BestSellers)
+    {
+        @await Html.PartialAsync("_ProductPartial", product)
+    }
+
+
+
+
+    @foreach (var product in item.News)
+    {
+        @await Html.PartialAsync("_ProductPartial", product)
+    }
+}

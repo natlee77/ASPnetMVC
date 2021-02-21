@@ -1,0 +1,11 @@
+﻿@model IdentityRole
+
+
+<h1>All users</h1>
+@foreach (var user in ViewBag.Users)
+{
+    <div class="mb-4">
+        @user.GetDisplayName()
+        @Html.DropDownListFor(model => model.Id, new SelectList(ViewBag.Roles, "Id", "Name"), "Välja Roll")
+    </div>
+}
